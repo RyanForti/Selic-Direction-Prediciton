@@ -1,0 +1,7 @@
+language,period,repetition,best_params,test_accuracy,test_f1_macro
+pt,before_2016,1,"{'batch_size': 8, 'epochs': 3, 'learning_rate': 2e-05}",0.46153846153846156,0.2986425339366516
+pt,after_2016,1,"{'batch_size': 8, 'epochs': 2, 'learning_rate': 5e-05}",0.3333333333333333,0.1851851851851852
+pt,full,1,"{'batch_size': 8, 'epochs': 3, 'learning_rate': 2e-05}",0.3902439024390244,0.22376696458126447
+en,before_2016,1,"{'batch_size': 8, 'epochs': 1, 'learning_rate': 2e-05}",0.4230769230769231,0.1981981981981982
+en,after_2016,1,"{'batch_size': 8, 'epochs': 1, 'learning_rate': 2e-05}",0.4,0.19047619047619047
+en,full,1,"{'batch_size': 8, 'epochs': 3, 'learning_rate': 5e-05}",0.4878048780487805,0.31909963588215823
